@@ -21,8 +21,8 @@
 <br />
 
 
-[![Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=muhammadzain2005)](https://github.com/muhammadzain2005/github-readme-stats)
+[![Muhammad Zain's github stats](https://github-readme-stats.vercel.app/api?username=muhammadzain001)](https://github.com/muhammadzain001/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain2005)](https://github.com/MuhammadZain2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZain001)](https://github.com/MuhammadZain001/github-readme-stats)
 
 [instagram]: https://instagram.com/muhammadzain2005
